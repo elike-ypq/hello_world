@@ -1,0 +1,4 @@
+git clone https://github.com/elike-ypq.git [my location path]
+clone a repository from my github account to my computer
+git push origin master
+handing up all review
